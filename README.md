@@ -111,12 +111,5 @@ High-converting web applications with responsive design systems, dark mode, and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tindinh00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tindinh00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
   <i>"Passionate about building scalable systems, clean architecture, and practical engineering solutions."</i>
 </p>
