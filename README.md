@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Doan Dinh Tin 👋</h1>
-<h3 align="center">Senior Fullstack Software Engineer | .NET Core • Angular • Next.js • React • Node.js</h3>
+<h3 align="center">Fullstack Software Engineer | .NET Core • Angular • Next.js • React • Node.js</h3>
 
 <p align="center">
   Architecting scalable enterprise platforms, mission-critical services, and high-throughput data synchronization systems.
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Fullstack Software Engineer** with strong expertise in designing, maintaining, and scaling enterprise-level software ecosystems. With deep foundations in **Clean Architecture, Domain-Driven Design (DDD), and SOLID principles**, I specialize in high-performance backends using **.NET Core & Node.js**, paired with modern, accessible frontends using **Angular, Next.js, and React**.
+I am a **Fullstack Software Engineer** with strong expertise in designing, maintaining, and scaling enterprise-level software ecosystems. With deep foundations in **Clean Architecture, Domain-Driven Design (DDD), and SOLID principles**, I specialize in high-performance backends using **.NET Core & Node.js**, paired with modern, accessible frontends using **Angular, Next.js, and React**.
 
 - ⚙️ **Enterprise Backend & Architecture:** Deep expertise in **C# / .NET Core**, **Node.js (TypeScript)**, RESTful Web APIs, Background Cron Workers, and Modular Monolith architectures.
 - 🎨 **Modern Frontend & UI Systems:** Crafting high-performance SPAs and server-rendered web applications with **Angular (RxJS)**, **Next.js (App Router)**, **React**, **Shadcn/UI**, and **Tailwind CSS**.
