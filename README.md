@@ -2,7 +2,7 @@
 <h3 align="center">Senior Fullstack Software Engineer | .NET Core • Angular • Next.js • React • Node.js</h3>
 
 <p align="center">
-  Architecting scalable enterprise platforms, modern fullstack web applications, and high-throughput data synchronization systems.
+  Architecting scalable enterprise platforms, mission-critical services, and high-throughput data synchronization systems.
 </p>
 
 <p align="center">
@@ -21,12 +21,13 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Fullstack Software Engineer** with extensive experience in building mission-critical enterprise systems and high-traffic web applications. With a solid foundation in **Clean Architecture, Domain-Driven Design (DDD), and SOLID principles**, I specialize in designing robust backends using **.NET Core & Node.js**, paired with modern, responsive frontends using **Angular, Next.js, and React**.
+I am a **Senior Fullstack Software Engineer** with strong expertise in designing, maintaining, and scaling enterprise-level software ecosystems. With deep foundations in **Clean Architecture, Domain-Driven Design (DDD), and SOLID principles**, I specialize in high-performance backends using **.NET Core & Node.js**, paired with modern, accessible frontends using **Angular, Next.js, and React**.
 
-- ⚙️ **Enterprise Backend & Architecture:** Deep expertise in **C# / .NET Core**, **Node.js (TypeScript)**, RESTful Web APIs, Background Workers, and Modular Monolith architectures.
-- 🎨 **Modern Frontend & UI Design:** Engineering high-performance SPAs and server-rendered web applications using **Angular (RxJS)**, **Next.js (App Router)**, **React**, **Shadcn/UI**, and **Tailwind CSS**.
-- 🚀 **Performance & Data Engineering:** Proficient in **PostgreSQL, SQL Server, and Redis Caching**; proven track record of slashing API latency from >2000ms down to <300ms.
+- ⚙️ **Enterprise Backend & Architecture:** Deep expertise in **C# / .NET Core**, **Node.js (TypeScript)**, RESTful Web APIs, Background Cron Workers, and Modular Monolith architectures.
+- 🎨 **Modern Frontend & UI Systems:** Crafting high-performance SPAs and server-rendered web applications with **Angular (RxJS)**, **Next.js (App Router)**, **React**, **Shadcn/UI**, and **Tailwind CSS**.
+- 🚀 **Performance & Data Engineering:** Proficient in **PostgreSQL, SQL Server, and Redis Caching**; proven track record of reducing API latency from >2000ms down to <300ms (an 85% drop).
 - 🔄 **Integration & Automation:** Experienced in **Keycloak (SSO/IAM)**, Camunda BPMN workflow engines, and automated data pipelines using **n8n** and Webhooks.
+- 🤖 **Current Focus:** Building AI-driven developer workflows, resilient microservices, and distributed cloud systems.
 
 ---
 
@@ -40,23 +41,23 @@ I am a **Senior Fullstack Software Engineer** with extensive experience in build
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Featured Enterprise Projects
 
 ### 🏛️ EIU Enterprise HRMS & Master Data Management
 Enterprise-grade human resource management system featuring automated contract transitions, gap-detecting staff IDs, and multi-source data sync.
-- **Tech Stack:** .NET Core / Node.js, TypeScript, PostgreSQL, LDAP, Docker, Redis.
+- **Tech Stack:** `.NET Core` • `Node.js` • `TypeScript` • `PostgreSQL` • `LDAP` • `Docker` • `Redis`
 
 ### 📚 Academic Research Intelligence & DOI Platform
 University-wide publication indexing system automating DOI metadata resolution, plagiarism/duplicate checking, and formal accreditation reports.
-- **Tech Stack:** Node.js, Next.js, TypeScript, CrossRef/DOI API, ExcelJS, PDFKit.
+- **Tech Stack:** `Node.js` • `Next.js` • `TypeScript` • `CrossRef/DOI API` • `ExcelJS` • `PDFKit`
 
 ### 🎫 EIU-Support — High-Throughput Service Desk & Kanban
 Enterprise ticketing and resource booking system with real-time interactive Kanban boards, multi-tier approval workflows, and Redis cache optimization.
-- **Tech Stack:** .NET Core, Angular / React, Redis Cache, SQL Server / PostgreSQL, WebSockets.
+- **Tech Stack:** `.NET Core` • `Angular` • `React` • `Redis Cache` • `SQL Server` • `WebSockets`
 
 ### ⚡ Modern Fullstack Applications & UI Systems
 High-converting web applications with responsive design systems, dark mode, and state-of-the-art UI components.
-- **Tech Stack:** Next.js, TypeScript, Shadcn/UI, Tailwind CSS, Radix UI.
+- **Tech Stack:** `Next.js` • `TypeScript` • `Shadcn/UI` • `Tailwind CSS` • `Radix UI`
 
 ---
 
@@ -105,6 +106,13 @@ High-converting web applications with responsive design systems, dark mode, and 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tindinh00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tindinh00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
